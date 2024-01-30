@@ -15,7 +15,7 @@ pip install beautifulsoup4 requests
 
  ## USAGE
 Run with:
-python scrape_nursing_orders.py
+python scraping.py
 Adjust script for your target URLs.
 
 ## CONTRIBUTING
